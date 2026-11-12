@@ -1,10 +1,24 @@
 ### Civil Engineering & Infrastructure Portfolio
 
-This repository highlights core civil engineering, structural analysis, and infrastructure planning projects completed during my academic and professional work.
+This repository highlights my professional background, structural design capabilities, geotechnical assessments, and site engineering experience across international projects.
 
 ---
 
-### Key Focus Areas & Expertise
-* **Structural Design & Analysis:** Application of structural mechanics, finite element modeling, and material behavior under various load conditions.
-* **Geotechnical Assessments:** Soil mechanics, slope stability analysis, foundation engineering, and site characterization.
-* **Infrastructure Planning:** Water resource management, drainage design, and sustainable civil infrastructure integration.
+### Professional Background & Experience Highlights
+
+* **Structural & Rebar Estimation:** Experience as a Rebar Estimator using PlanSwift and Soule Software for foundations, decks, columns, beams, and tendon layouts. Proficiency in CSI ETABS and CSI SAFE for building analysis and design.
+* **Site Engineering & Construction Supervision:** Hands-on site engineering experience on hydropower and sub-station projects (e.g., LIKHU-A Hydro, Trishuli 3A, and substation civil works), managing earthwork calculations (SW-DTM), Bar Bending Schedules (BBS), QA/QC logs, and slope protection designs.
+* **Drafting & Municipal Design:** Extensive background as a draftsperson and civil engineer preparing structural and architectural drawings, municipal approvals, and utility layouts in CAD.
+
+---
+
+### Core Engineering Software & Tools
+* **Design & Analysis:** CSI ETABS, CSI SAFE, AutoCAD, SketchUp
+* **Estimation & Quantity Surveying:** PlanSwift, Soule Software, SW-DTM
+* **Programming & Data:** R Studio (applied in ongoing M.Sc. Hydro Science & Engineering studies at TU Dresden)
+
+---
+
+### Portfolio Structure
+* `projects/`: Documentation and structural layout summaries from professional consultation and site works.
+* `credentials/`: Professional history and technical certifications.
