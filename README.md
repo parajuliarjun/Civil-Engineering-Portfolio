@@ -19,6 +19,3 @@ This repository highlights my professional background, structural design capabil
 
 ---
 
-### Portfolio Structure
-* `projects/`: Documentation and structural layout summaries from professional consultation and site works.
-* `credentials/`: Professional history and technical certifications.
